@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义view 属性 -->
+    <declare-styleable name="CircleView">
+        <attr name="corcleColor" format="color"/>
+    </declare-styleable>
+</resources>

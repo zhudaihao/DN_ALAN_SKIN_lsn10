@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1F1F1F</color>
+    <color name="colorPrimaryDark">#373935</color>
+
+
+    <color name="colorAccent">#ffffff</color>
+
+    <!-- 自定义view 引用的背景颜色 -->
+    <color name="viewColor">#de0c0c</color>
+
+    <color name="tabSelectedTextColor">#FFA500</color>
+</resources>
+
+<!--皮肤包-->

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--全局字体替换-->
+    <string name="typeface">font/global.ttf</string>
+    <!--单独字体替换-->
+    <string name="typeface2">font/specified.ttf</string>
+</resources>
